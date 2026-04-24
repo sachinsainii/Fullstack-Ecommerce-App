@@ -23,4 +23,3 @@ A full-stack e-commerce web application built using Django (backend) and React (
 ### Database:
 - PostgreSQL / SQLite
 
-## 📁 Project Structure
